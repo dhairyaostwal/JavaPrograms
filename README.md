@@ -1,17 +1,18 @@
 # Java CSE1007 Lab Programs
 
-## Consists:
+1. [Lab Programs]("./Lab-CSE1007")
+2. [Theory Programs]("./Theory-Programs")
 
-first.java = Basic Structure of Java program
+## Instructions to run:
 
-### Lab-CSE1007
+1. Compile Java file
 
-1.0 simpleInterest.java = for finding SI = PRT/100
 
-1.1 commandLineArg.java = for passing values during the command line execution# JavaPrograms
 
-2.0 finalmain.java = final and static
+**```javac fileName.java```**
 
-2.1 inheritance
 
-### Theory-CSE1007
+
+2. Run Java main class
+
+**```java mainClassName```**
