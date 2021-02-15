@@ -1,3 +1,7 @@
+// To run 
+// java commandLineArg
+// java commandLineArg 23 45
+
 class commandLineArg{
     public static void main(String a[]){
         int x =Integer.parseInt(a[0]);
