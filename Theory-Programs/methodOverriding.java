@@ -6,7 +6,8 @@ class parent {
     System.out.println("Parent Constructor");
   }
 
-  void show() {
+  // use of final prevents overriding
+  final void show() {
     System.out.println("Parent show method");
   }
 }
@@ -20,6 +21,7 @@ class child extends parent {
   void show() {
     System.out.println("Child show method");
     super.show();
+    // use of super keyword helps us access parent method
   }
 }
 
