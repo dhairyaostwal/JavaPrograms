@@ -23,3 +23,7 @@
 * multipleInher = multiple inheritance not possible as in C++
 * interface = used for multiple inheritance
 * interface2 = practice multiple inheritance
+
+6
+* InterfaceInsideClass = tutorialspoint program
+* interfaceHW = practice for interface and class
