@@ -27,3 +27,4 @@
 6
 * InterfaceInsideClass = tutorialspoint program
 * interfaceHW = practice for interface and class
+* nestedClass = nested Class
