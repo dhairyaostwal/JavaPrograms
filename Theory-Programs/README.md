@@ -29,3 +29,7 @@
 * interfaceHW = practice for interface and class
 * ClassInsideInterface
 * nestedClass = nested Class
+
+7
+* packageClass1.java = creating packages in Java
+* arithPackage.java = Java package practice
