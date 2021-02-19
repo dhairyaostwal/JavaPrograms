@@ -33,3 +33,4 @@
 7
 * packageClass1.java = creating packages in Java
 * arithPackage.java = Java package practice
+* calculation.java = New package3 uses arithPackage methods
