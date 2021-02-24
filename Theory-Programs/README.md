@@ -34,3 +34,7 @@
 * packageClass1.java = creating packages in Java
 * arithPackage.java = Java package practice
 * calculation.java = New package3 uses arithPackage methods
+
+8
+* garbage.java = garbage collector
+* innerClass.java = access members of outer class including public and private data members
