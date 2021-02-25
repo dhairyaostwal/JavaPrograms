@@ -19,15 +19,16 @@ public class arithPackage {
     return a - b;
   }
 
-  int divide(int a, int b) {
-    return a / b;
+ float divide(float a, float b) {
+    float ans = a/b;
+    return ans;
   }
 
-  // public static void main(String arg[]) {
-  //   arithPackage a = new arithPackage();
-  //   System.out.println(a.add(5, 6));
-  //   System.out.println(a.multiply(5, 6));
-  //   System.out.println(a.subtract(5, 6));
-  //   System.out.println(a.divide(5, 6));
-  // }
+  public static void main(String arg[]) {
+    arithPackage a = new arithPackage();
+    System.out.println(a.add(5, 6));
+    System.out.println(a.multiply(5, 6));
+    System.out.println(a.subtract(5, 6));
+    System.out.println(a.divide(5, 6));
+  }
 }
