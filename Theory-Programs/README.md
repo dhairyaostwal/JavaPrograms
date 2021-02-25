@@ -40,4 +40,5 @@
 * innerClass.java = access members of outer class including public and private data members
 
 9
-* packages + interface
+* sports.java = package
+* outdoorSports.java = interface
