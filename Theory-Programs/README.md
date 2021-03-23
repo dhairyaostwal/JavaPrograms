@@ -60,7 +60,11 @@
 
 12. **Module 3**
 * except.java = Exception and Error
-* incomeTax.java = homework
+* incomeTax.java = Throw/Throws
+* exceptHW.java = Throw/Throws practice
 
 13. **Thread**
 * samplethread.java = thread programming
+
+14. **Create using Runnable Items**
+* threadpractice.java = thread practice
