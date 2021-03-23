@@ -62,6 +62,7 @@
 * except.java = Exception and Error
 * incomeTax.java = Throw/Throws
 * exceptHW.java = Throw/Throws practice
+* finally2.java = finally will always be executed
 
 13. **Thread**
 * samplethread.java = thread programming
