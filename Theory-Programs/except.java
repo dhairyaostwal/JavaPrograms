@@ -53,31 +53,24 @@ class exp3 {
   }
 }
 
-// class exp3
-// {​​​​
-//   public static void main(String args[]){​​​​
-//   try{​​​​
-//   String a =1;
-// }
-// ​​​​catch(Exception e)
-// {​​​​
-// System.out.println("General exeception.....");
-// }​​​​
-// System.out.println("\nprogram continues...");
-// }​​​​
-// }​​​​
-// try
-// {​​​​
-// String s = "helo";
-// int a = Integer.parseInt(s);
-// }​​​​ catch (NumberFormatException e ){​​​​
-// System.out.println("\nNumber format:"+e);
-// }​​​​
-// try
-// {​​​​
-// int a[] = new int[5];
-// a[5]= 100;
-// }​​​​catch(ArrayIndexOutOfBoundsException e)
-// {​​​​
-// System.out.println("\nArray index: "+e);
-// }​​​​
+// Nested try catch block
+
+class exp4 {
+
+  public static void main(String args[]) {
+    int a[] = { 0, 10, 20, 30, 40 };
+
+    try {
+      try {
+        int result = a[3] / a[0];
+      } catch (Exception e) {
+        System.out.println("Handled Exception");
+        System.out.println(e);
+      }
+      a[6] = 50;
+    } catch (Exception e) {
+      System.out.println("Handled Exception");
+      System.out.println(e);
+    }
+  }
+}
