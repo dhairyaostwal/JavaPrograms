@@ -66,6 +66,11 @@
 
 13. **Thread**
 * samplethread.java = thread programming
+* pthread.java = thread practice
 
 14. **Create using Runnable Items**
 * threadpractice.java = thread practice
+* threadrunnable.java
+* threadsync.java
+* deadlock.java
+* interh.java = interthread communication
