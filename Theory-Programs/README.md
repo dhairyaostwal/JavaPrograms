@@ -74,3 +74,8 @@
 * threadsync.java
 * deadlock.java
 * interh.java = interthread communication
+
+15. **AWT**
+* myawt.java
+* awtprac.java
+* choice.java = Not working ma'am code

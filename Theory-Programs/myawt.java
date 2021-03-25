@@ -5,6 +5,7 @@ class myawt implements ActionListener, ItemListener {
 
   Frame f;
   Label l1;
+  List l;
   Button b1, b2;
   TextField t1;
   Panel p;
