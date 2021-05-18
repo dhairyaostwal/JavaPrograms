@@ -8,6 +8,7 @@
 
 2. 
 * constructor
+* constructor2.java = copy constructor + paramterized constructor
 * array
 
 3.
